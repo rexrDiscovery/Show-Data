@@ -1,0 +1,27 @@
+{
+	"show":[
+
+    {
+		"show-name":"Familjen Lundell",
+		"show-image":"https://eu1-prod-images.disco-api.com/2019/10/25/show-10627-13490611914195009.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
+		"show-description":"Häng med i Jocke & Jonnas liv. Se ett avsnitt före alla andra med Premium.",
+		"show-channel":"Dplay"
+	},
+
+	{
+		"show-name":"Ex on the Beach - kärleksparen",
+		"show-image":"https://eu1-prod-images.disco-api.com/2019/02/15/show-9257-7566379088136.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
+		"show-description":"De sökte ett äventyr – och fann kärleken. Men hur klarar romantiken omställningen från drömsemester till vardag?",
+		"show-channel":"Dplay"
+	},
+
+	{
+		"show-name":"The Big Bang Theory",
+		"show-image":"https://eu1-prod-images.disco-api.com/2019/02/19/show-414-356814226272222.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
+		"show-description":"Se alla avsnitt av den hyllade komediserien The Big Bang Theory. En serie om vänner och vetenskap.",
+		"show-channel":"Kanal 5"
+	}
+
+]
+
+}
