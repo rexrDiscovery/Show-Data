@@ -1,5 +1,10 @@
 {
-	"show":[
+
+	"show-grid": [
+
+   {
+
+	"show-card":[
 
     {
 		"show-name":"Familjen Lundell",
@@ -143,6 +148,29 @@
 		"show-channel":"Kanal 5"
 	}
 
+]
+},
+
+{
+
+	"show-card":[
+
+    {
+		"show-name":"Allsvenskan",
+		"show-image":"https://eu1-prod-images.disco-api.com/2020/01/09/show-12354-5316706253975576.jpg?f=jpeg&p=true&q=100&w=900",
+		"show-description":"Allsvenskan har fått en ny hemmaplan. Kom närmare ditt lag och se alla matcher live på Dplay.",
+		"show-channel":"Dplay"
+	},
+
+	{
+		"show-name":"Deadliest Catch",
+		"show-image":"https://eu1-prod-images.disco-api.com/2019/01/29/show-141-17652937223226153.jpg?f=jpeg&p=true&q=100&w=900",
+		"show-description":"Extrema fiskare är på jakt på Berings hav: äventyret är deras kall och krabba deras byte.",
+		"show-channel":"Discovery Channel"
+	}
+
+]
+}
 ]
 
 }
