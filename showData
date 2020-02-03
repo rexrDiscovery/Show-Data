@@ -149,22 +149,23 @@
 {
 	"episodeName":"Sacrifice",
 	"episodeImage":"https://eu1-prod-images.disco-api.com/2016/09/19/videoasset-1779-1504292908019.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=600",
-	"episodeDescription":"Newport, Oregon är en fiskeort som ligger vid brynet av 'Graveyard of the Pacific'. Här uppoffrar Dungeness-kräftfiskare allt för att skaffa sig en utkomst från havet."
+	"episodeDescription":"Newport, Oregon är en fiskeort som ligger vid brynet av 'Graveyard of the Pacific'. Här uppoffrar Dungeness-kräftfiskare allt för att skaffa sig en utkomst från havet.",
 	"episodeNumber":"1"
 },
 
 {
 	"episodeName":"Pacific Fury",
 	"episodeImage":"https://eu1-prod-images.disco-api.com/2016/09/26/videoasset-1756-1504283709036.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=600",
-	"episodeDescription":"Välkommen till Newport, Oregon. Följ fyra familjer på land och vatten när de tävlar i en sällsynt, gränslös, fånga-så-mycket-du-kan, Dungeness Crab Derby."
+	"episodeDescription":"Välkommen till Newport, Oregon. Följ fyra familjer på land och vatten när de tävlar i en sällsynt, gränslös, fånga-så-mycket-du-kan, Dungeness Crab Derby.",
 	"episodeNumber":"2"
 },
 
 {
 	"episodeName":"Final Crossing",
 	"episodeImage":"https://eu1-prod-images.disco-api.com/2016/10/03/videoasset-1751-1504281012435.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=600",
-	"episodeDescription":"Välkommen till Newport, Oregon. Följ fyra familjer på land och vatten när de tävlar i en sällsynt, gränslös, fånga-så-mycket-du-kan, Dungeness Crab Derby."
+	"episodeDescription":"Välkommen till Newport, Oregon. Följ fyra familjer på land och vatten när de tävlar i en sällsynt, gränslös, fånga-så-mycket-du-kan, Dungeness Crab Derby.",
 	"episodeNumber":"3"
 }
+]
 
 }
