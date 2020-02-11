@@ -8,19 +8,19 @@
          "Episodes":[ 
             { 
                "episodeName":"Pacific Fury",
-               "episodeImage":"https://eu1-prod-images.disco-api.com/2016/09/26/videoasset-1756-1504283709036.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2007/10/29/videoasset-5186-1505163043839.jpg?f=jpeg&p=true&q=100&w=1800",
                "episodeDescription":"Følg mandskaberne på Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose, når de vender tilbage til det farefulde, iskolde Beringshav.",
                "episodeNumber":"1"
             },
             { 
                "episodeName":"Gröngölingar",
-               "episodeImage":"https://eu1-prod-images.disco-api.com/2016/09/26/videoasset-1756-1504283709036.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2007/11/05/videoasset-5185-1505162976904.jpg?f=jpeg&p=true&q=100&w=1800",
                "episodeDescription":"Newport, Oregon är en fiskeort som ligger vid brynet av 'Graveyard of the Pacific'. Här uppoffrar Dungeness-kräftfiskare allt för att skaffa sig en utkomst från havet.",
                "episodeNumber":"2"
             },
             { 
                "episodeName":"Långa sömnlösa nätter",
-               "episodeImage":"https://eu1-prod-images.disco-api.com/2016/09/26/videoasset-1756-1504283709036.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2007/11/12/videoasset-5184-1505162679174.jpg?f=jpeg&p=true&q=100&w=1800",
                "episodeDescription":"Välkommen till Newport, Oregon. Följ fyra familjer på land och vatten när de tävlar i en sällsynt, gränslös, fånga-så-mycket-du-kan, Dungeness Crab Derby.",
                "episodeNumber":"3"
             },
@@ -32,7 +32,7 @@
             },
             { 
                "episodeName":"Fru Fortuna",
-               "episodeImage":"https://eu1-prod-images.disco-api.com/2016/09/26/videoasset-1756-1504283709036.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2016/10/10/videoasset-1757-1504283796916.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
                "episodeDescription":"En regeringslukning afkorter sæsonen og starter en kædereaktion, der tvinger flåden til at fiske mere og hurtigere for at overholde tidsfristen for markedet.",
                "episodeNumber":"5"
             }
