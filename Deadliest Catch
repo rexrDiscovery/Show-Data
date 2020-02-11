@@ -1,0 +1,233 @@
+{ 
+   "season":[ 
+      
+
+
+      { 
+         "Season Name":"Season 1",
+         "Episodes":[ 
+            { 
+               "episodeName":"Pacific Fury",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2016/09/26/videoasset-1756-1504283709036.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
+               "episodeDescription":"Følg mandskaberne på Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose, når de vender tilbage til det farefulde, iskolde Beringshav.",
+               "episodeNumber":"1"
+            },
+            { 
+               "episodeName":"Gröngölingar",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2016/09/26/videoasset-1756-1504283709036.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
+               "episodeDescription":"Newport, Oregon är en fiskeort som ligger vid brynet av 'Graveyard of the Pacific'. Här uppoffrar Dungeness-kräftfiskare allt för att skaffa sig en utkomst från havet.",
+               "episodeNumber":"2"
+            },
+            { 
+               "episodeName":"Långa sömnlösa nätter",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2016/09/26/videoasset-1756-1504283709036.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
+               "episodeDescription":"Välkommen till Newport, Oregon. Följ fyra familjer på land och vatten när de tävlar i en sällsynt, gränslös, fånga-så-mycket-du-kan, Dungeness Crab Derby.",
+               "episodeNumber":"3"
+            },
+            { 
+               "episodeName":"Kamp mot klockan",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2016/09/26/videoasset-1756-1504283709036.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
+               "episodeDescription":Folkene fra Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose er vendt tilbage til det farlige og iskolde Beringshavet for at fange krabber.",
+               "episodeNumber":"4"
+            },
+            { 
+               "episodeName":"Fru Fortuna",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2016/09/26/videoasset-1756-1504283709036.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
+               "episodeDescription":"En regeringslukning afkorter sæsonen og starter en kædereaktion, der tvinger flåden til at fiske mere og hurtigere for at overholde tidsfristen for markedet.",
+               "episodeNumber":"5"
+            }
+         ]
+      },
+
+
+
+{ 
+         "Season Name":"Season 2",
+         "Episodes":[ 
+            { 
+               "episodeName":"Mitt i smällkalla vintern",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2005/10/10/videoasset-5204-1505166585358.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Det är den första arbetsdagen i världens farligaste arbete. 1 500 fiskare har samlats i Dutch Harbor inför starten av kungskrabbesäsongen.",
+               "episodeNumber":"1"
+            },
+            { 
+               "episodeName":"Man överbord",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2005/10/17/videoasset-5212-1505169280835.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Efter en lång natts agnande av krabbtinor väntar fiskarna otåligt på klartecken från kapten att börja fiska. Fiskesäsongens första uppdragna tina gör alla på gott humör.",
+               "episodeNumber":"2"
+            },
+            { 
+               "episodeName":"Pacific Fury",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2005/10/24/videoasset-5224-1505171139999.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Krabbsäsongen går mot sitt slut. Fiskarna måste antingen fånga krabba idag eller ge upp hoppet om att gå på plus. Resultatet kan komma att påverka deras familjer under hela året.",
+               "episodeNumber":"3"
+            },
+            { 
+               "episodeName":"Pacific Fury",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2005/10/31/videoasset-5223-1505170777252.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Krabbfiskesäsongen i Alaska är så gott som slut och nu väntar en kamp mot klockan för att fånga så många krabbor som möjligt under de sista timmarna.",
+               "episodeNumber":"4"
+            },
+            { 
+               "episodeName":"Pacific Fury",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2005/11/07/videoasset-5222-1505170590523.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Det är mitt i smällkalla vintern i Dutch Harbor i Alaska. Trots detta ska krabbsäsongen till att starta och 171 båtar börja det mödosamma arbetet med att hitta krabborna.",
+               "episodeNumber":"5"
+            }
+         ]
+      },
+
+      
+            { 
+         "Season Name":"Season 3",
+         "Episodes":[ 
+            { 
+               "episodeName":"Pacific Fury",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2005/11/14/videoasset-5225-1505173481162.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Følg mandskaberne på Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose, når de vender tilbage til det farefulde, iskolde Beringshav.",
+               "episodeNumber":"1"
+            },
+            { 
+               "episodeName":"Gröngölingar",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2005/11/28/videoasset-5228-1505173893542.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Newport, Oregon är en fiskeort som ligger vid brynet av 'Graveyard of the Pacific'. Här uppoffrar Dungeness-kräftfiskare allt för att skaffa sig en utkomst från havet.",
+               "episodeNumber":"2"
+            },
+            { 
+               "episodeName":"Långa sömnlösa nätter",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2005/12/05/videoasset-5227-1505173780054.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Välkommen till Newport, Oregon. Följ fyra familjer på land och vatten när de tävlar i en sällsynt, gränslös, fånga-så-mycket-du-kan, Dungeness Crab Derby.",
+               "episodeNumber":"3"
+            },
+            { 
+               "episodeName":"Kamp mot klockan",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2005/12/12/videoasset-5226-1505173779573.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":Folkene fra Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose er vendt tilbage til det farlige og iskolde Beringshavet for at fange krabber.",
+               "episodeNumber":"4"
+            },
+            { 
+               "episodeName":"Fru Fortuna",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2006/10/16/videoasset-5215-1505169580766.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"En regeringslukning afkorter sæsonen og starter en kædereaktion, der tvinger flåden til at fiske mere og hurtigere for at overholde tidsfristen for markedet.",
+               "episodeNumber":"5"
+            }
+         ]
+      },
+
+
+
+{ 
+         "Season Name":"Season 4",
+         "Episodes":[ 
+            { 
+               "episodeName":"Mitt i smällkalla vintern",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2006/10/30/videoasset-5214-1505169395007.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Det är den första arbetsdagen i världens farligaste arbete. 1 500 fiskare har samlats i Dutch Harbor inför starten av kungskrabbesäsongen.",
+               "episodeNumber":"1"
+            },
+            { 
+               "episodeName":"Man överbord",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2006/11/06/videoasset-5217-1505169689092.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Efter en lång natts agnande av krabbtinor väntar fiskarna otåligt på klartecken från kapten att börja fiska. Fiskesäsongens första uppdragna tina gör alla på gott humör.",
+               "episodeNumber":"2"
+            },
+            { 
+               "episodeName":"Pacific Fury",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2006/11/13/videoasset-5220-1505170179138.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Krabbsäsongen går mot sitt slut. Fiskarna måste antingen fånga krabba idag eller ge upp hoppet om att gå på plus. Resultatet kan komma att påverka deras familjer under hela året.",
+               "episodeNumber":"3"
+            },
+            { 
+               "episodeName":"Pacific Fury",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2006/11/20/videoasset-5219-1505169991859.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Krabbfiskesäsongen i Alaska är så gott som slut och nu väntar en kamp mot klockan för att fånga så många krabbor som möjligt under de sista timmarna.",
+               "episodeNumber":"4"
+            },
+            { 
+               "episodeName":"Pacific Fury",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2006/11/27/videoasset-5218-1505169937721.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Det är mitt i smällkalla vintern i Dutch Harbor i Alaska. Trots detta ska krabbsäsongen till att starta och 171 båtar börja det mödosamma arbetet med att hitta krabborna.",
+               "episodeNumber":"5"
+            }
+         ]
+      },
+
+            { 
+         "Season Name":"Season 5",
+         "Episodes":[ 
+            { 
+               "episodeName":"Pacific Fury",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2006/12/04/videoasset-5197-1505164482957.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Følg mandskaberne på Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose, når de vender tilbage til det farefulde, iskolde Beringshav.",
+               "episodeNumber":"1"
+            },
+            { 
+               "episodeName":"Gröngölingar",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2006/12/11/videoasset-5189-1505163283296.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Newport, Oregon är en fiskeort som ligger vid brynet av 'Graveyard of the Pacific'. Här uppoffrar Dungeness-kräftfiskare allt för att skaffa sig en utkomst från havet.",
+               "episodeNumber":"2"
+            },
+            { 
+               "episodeName":"Långa sömnlösa nätter",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2007/09/03/videoasset-5194-1505163879352.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Välkommen till Newport, Oregon. Följ fyra familjer på land och vatten när de tävlar i en sällsynt, gränslös, fånga-så-mycket-du-kan, Dungeness Crab Derby.",
+               "episodeNumber":"3"
+            },
+            { 
+               "episodeName":"Kamp mot klockan",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2007/09/10/videoasset-5193-1505163641539.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":Folkene fra Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose er vendt tilbage til det farlige og iskolde Beringshavet for at fange krabber.",
+               "episodeNumber":"4"
+            },
+            { 
+               "episodeName":"Fru Fortuna",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2007/09/17/videoasset-5192-1505163579730.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"En regeringslukning afkorter sæsonen og starter en kædereaktion, der tvinger flåden til at fiske mere og hurtigere for at overholde tidsfristen for markedet.",
+               "episodeNumber":"5"
+            }
+         ]
+      },
+
+
+
+{ 
+         "Season Name":"Season 6",
+         "Episodes":[ 
+            { 
+               "episodeName":"Mitt i smällkalla vintern",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2007/09/24/videoasset-5187-1505163094566.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Det är den första arbetsdagen i världens farligaste arbete. 1 500 fiskare har samlats i Dutch Harbor inför starten av kungskrabbesäsongen.",
+               "episodeNumber":"1"
+            },
+            { 
+               "episodeName":"Man överbord",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2007/10/01/videoasset-5181-1505162492680.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Efter en lång natts agnande av krabbtinor väntar fiskarna otåligt på klartecken från kapten att börja fiska. Fiskesäsongens första uppdragna tina gör alla på gott humör.",
+               "episodeNumber":"2"
+            },
+            { 
+               "episodeName":"Pacific Fury",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2007/10/08/videoasset-5182-1505162493441.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Krabbsäsongen går mot sitt slut. Fiskarna måste antingen fånga krabba idag eller ge upp hoppet om att gå på plus. Resultatet kan komma att påverka deras familjer under hela året.",
+               "episodeNumber":"3"
+            },
+            { 
+               "episodeName":"Pacific Fury",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2007/10/15/videoasset-5180-1505162142202.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Krabbfiskesäsongen i Alaska är så gott som slut och nu väntar en kamp mot klockan för att fånga så många krabbor som möjligt under de sista timmarna.",
+               "episodeNumber":"4"
+            },
+            { 
+               "episodeName":"Pacific Fury",
+               "episodeImage":"https://eu1-prod-images.disco-api.com/2007/10/22/videoasset-5183-1505162677449.jpg?f=jpeg&p=true&q=100&w=1800",
+               "episodeDescription":"Det är mitt i smällkalla vintern i Dutch Harbor i Alaska. Trots detta ska krabbsäsongen till att starta och 171 båtar börja det mödosamma arbetet med att hitta krabborna.",
+               "episodeNumber":"5"
+            }
+         ]
+      }
+
+
+
+
+   ]
+}
