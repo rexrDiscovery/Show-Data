@@ -1,5 +1,47 @@
 { 
    "show":[ 
+         { 
+         "showName":"Magnus Hedman: Andra halvlek",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/12/02/show-11914-53910942484872.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
+         "showDescription":"Livet lekte för landslagmålvakten. Men när karriären tog slut förvandlades glamouren till nattsvart kaos. Magnus Hedman ersatte kickarna från fotbollen med knark.",
+         "show-channel":"Dplay"
+      },
+      { 
+         "showName":"Peter Forsberg: Välkommen till Foppaland",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/12/03/show-11915-1677541708093396.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
+         "showDescription":"Efter en otrolig ishockeykarriär bjuder nu Sveriges absolut största vinnarskalle in dig till sitt liv som hockeypappa i Schweiz.",
+         "show-channel":"Dplay"
+      },
+      { 
+         "showName":"Mats Wilander: Game, set och Mats",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/12/03/show-11912-1677655824465267.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
+         "showDescription":"En mästare och en ikon inom tennis som briljerade i alla tävlingar oavsett underlag. Möt mannen med en av Sveriges mest framgångsrika idrottskarriärer.",
+         "show-channel":"Dplay"
+      },
+      { 
+         "showName":"Filip och Fredrik träffar Steven Spielberg – i en minut",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/06/07/show-10628-6201493179625852.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
+         "showDescription":"Filip och Fredrik får en minut med Steven Spielberg. Pressen är total. Vad säger man till världens kanske mest kända filmskapare - på 60 sekunder?",
+         "show-channel":"Filip & Fredrik presenterar"
+      },
+      { 
+         "showName":"Why We Hate",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/09/30/show-11547-17277809441955843.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
+         "showDescription":"Varför finns hat och varifrån kommer denna destruktiva känsla som avgjort så många människoöden och förändrat samhälle och historia? Och om vi kan finna hatets ursprung – kan vi även hitta sätt att stoppa eller förebygga det?",
+         "show-channel":"Filip & Fredrik presenterar"
+      },
+      { 
+         "showName":"Sommaren med släkten",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/06/07/show-10628-6201493179625852.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
+         "showDescription":"Jens och Åsa åker för att tillbringa sommaren i skärgården. Idyllen uteblir dock när det visar sig att Jens svärföräldrar inte tänker lämna över stugan till Jens och Åsa, utan planerar att tillbringa sommaren där med dem. I andra säsongen är Jens och Åsa tillbaka på sommarstället och vill visa Åsas föräldrar att de är mogna att ta över stugan. Båtmotorer, grannar, gamla ex och en samfällighetsordförande sätter dock käppar i hjulet och den tilltänkta drömsommaren balanserar ibland farligt nära en mardröm.",
+         "show-channel":"Kanal 5"
+      },
+      { 
+         "showName":"90 Day Fiancé: Happily Ever After?",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/07/09/show-4130-10120961868290330.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
+         "showDescription":"Livet fortsätter för paren efter de 90 dagarna, men när de ser tillbaka på sina upplevelser inser de att deras liv inte har blivit lättare. Vi återser Danielle & Mohammed, Loren & Alexei, Russ & Paola och Melanie & Devar.",
+         "show-channel":"TLC"
+      },
       { 
          "showName":"Familjen Lundell",
          "showImage":"https://eu1-prod-images.disco-api.com/2019/10/25/show-10627-13490611914195009.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
@@ -73,48 +115,6 @@
          "show-channel":"Dplay"
       },
       { 
-         "showName":"Magnus Hedman: Andra halvlek",
-         "showImage":"https://eu1-prod-images.disco-api.com/2019/12/02/show-11914-53910942484872.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
-         "showDescription":"Livet lekte för landslagmålvakten. Men när karriären tog slut förvandlades glamouren till nattsvart kaos. Magnus Hedman ersatte kickarna från fotbollen med knark.",
-         "show-channel":"Dplay"
-      },
-      { 
-         "showName":"Peter Forsberg: Välkommen till Foppaland",
-         "showImage":"https://eu1-prod-images.disco-api.com/2019/12/03/show-11915-1677541708093396.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
-         "showDescription":"Efter en otrolig ishockeykarriär bjuder nu Sveriges absolut största vinnarskalle in dig till sitt liv som hockeypappa i Schweiz.",
-         "show-channel":"Dplay"
-      },
-      { 
-         "showName":"Mats Wilander: Game, set och Mats",
-         "showImage":"https://eu1-prod-images.disco-api.com/2019/12/03/show-11912-1677655824465267.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
-         "showDescription":"En mästare och en ikon inom tennis som briljerade i alla tävlingar oavsett underlag. Möt mannen med en av Sveriges mest framgångsrika idrottskarriärer.",
-         "show-channel":"Dplay"
-      },
-      { 
-         "showName":"Filip och Fredrik träffar Steven Spielberg – i en minut",
-         "showImage":"https://eu1-prod-images.disco-api.com/2019/06/07/show-10628-6201493179625852.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
-         "showDescription":"Filip och Fredrik får en minut med Steven Spielberg. Pressen är total. Vad säger man till världens kanske mest kända filmskapare - på 60 sekunder?",
-         "show-channel":"Filip & Fredrik presenterar"
-      },
-      { 
-         "showName":"Why We Hate",
-         "showImage":"https://eu1-prod-images.disco-api.com/2019/09/30/show-11547-17277809441955843.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
-         "showDescription":"Varför finns hat och varifrån kommer denna destruktiva känsla som avgjort så många människoöden och förändrat samhälle och historia? Och om vi kan finna hatets ursprung – kan vi även hitta sätt att stoppa eller förebygga det?",
-         "show-channel":"Filip & Fredrik presenterar"
-      },
-      { 
-         "showName":"Sommaren med släkten",
-         "showImage":"https://eu1-prod-images.disco-api.com/2019/06/07/show-10628-6201493179625852.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
-         "showDescription":"Jens och Åsa åker för att tillbringa sommaren i skärgården. Idyllen uteblir dock när det visar sig att Jens svärföräldrar inte tänker lämna över stugan till Jens och Åsa, utan planerar att tillbringa sommaren där med dem. I andra säsongen är Jens och Åsa tillbaka på sommarstället och vill visa Åsas föräldrar att de är mogna att ta över stugan. Båtmotorer, grannar, gamla ex och en samfällighetsordförande sätter dock käppar i hjulet och den tilltänkta drömsommaren balanserar ibland farligt nära en mardröm.",
-         "show-channel":"Kanal 5"
-      },
-      { 
-         "showName":"90 Day Fiancé: Happily Ever After?",
-         "showImage":"https://eu1-prod-images.disco-api.com/2019/07/09/show-4130-10120961868290330.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
-         "showDescription":"Livet fortsätter för paren efter de 90 dagarna, men när de ser tillbaka på sina upplevelser inser de att deras liv inte har blivit lättare. Vi återser Danielle & Mohammed, Loren & Alexei, Russ & Paola och Melanie & Devar.",
-         "show-channel":"TLC"
-      },
-      { 
          "showName":"Playa del Sol",
          "showImage":"https://eu1-prod-images.disco-api.com/2019/07/09/show-11013-10117324915266658.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
          "showDescription":"På Gran Canaria kämpar den konflikträdda platschef Mårten med resebyrån ”Shine Travels” som behöver ett rejält lyft.",
@@ -122,6 +122,24 @@
       }
    ],
    "episodes":[ 
+         { 
+         "episodeName":"Battle Lines",
+         "episodeImage":"https://eu1-prod-images.disco-api.com/2016/10/10/videoasset-1757-1504283796916.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
+         "episodeDescription":"Folkene fra Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose er vendt tilbage til det farlige og iskolde Beringshavet for at fange krabber.",
+         "episodeNumber":"4"
+      },      
+      { 
+         "episodeName":"First Blood",
+         "episodeImage":"https://eu1-prod-images.disco-api.com/2016/10/24/videoasset-1761-1504286195248.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
+         "episodeDescription":"En regeringslukning afkorter sæsonen og starter en kædereaktion, der tvinger flåden til at fiske mere og hurtigere for at overholde tidsfristen for markedet.",
+         "episodeNumber":"5"
+      },
+            { 
+         "episodeName":" Familieanliggende",
+         "episodeImage":"https://eu1-prod-images.disco-api.com/2015/01/13/videoasset-5207-1505167179573.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
+         "episodeDescription":"Følg mandskaberne på Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose, når de vender tilbage til det farefulde, iskolde Beringshav.",
+         "episodeNumber":"6"
+      },
       { 
          "episodeName":"Sacrifice",
          "episodeImage":"https://eu1-prod-images.disco-api.com/2016/09/19/videoasset-1779-1504292908019.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
