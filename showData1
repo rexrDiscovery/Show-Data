@@ -122,19 +122,7 @@
       }
    ],
    "episodes":[ 
-         { 
-         "episodeName":"Battle Lines",
-         "episodeImage":"https://eu1-prod-images.disco-api.com/2016/10/10/videoasset-1757-1504283796916.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
-         "episodeDescription":"Folkene fra Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose er vendt tilbage til det farlige og iskolde Beringshavet for at fange krabber.",
-         "episodeNumber":"4"
-      },      
-      { 
-         "episodeName":"First Blood",
-         "episodeImage":"https://eu1-prod-images.disco-api.com/2016/10/24/videoasset-1761-1504286195248.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
-         "episodeDescription":"En regeringslukning afkorter sæsonen og starter en kædereaktion, der tvinger flåden til at fiske mere og hurtigere for at overholde tidsfristen for markedet.",
-         "episodeNumber":"5"
-      },
-            { 
+               { 
          "episodeName":" Familieanliggende",
          "episodeImage":"https://eu1-prod-images.disco-api.com/2015/01/13/videoasset-5207-1505167179573.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
          "episodeDescription":"Følg mandskaberne på Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose, når de vender tilbage til det farefulde, iskolde Beringshav.",
@@ -158,7 +146,7 @@
          "episodeDescription":"Välkommen till Newport, Oregon. Följ fyra familjer på land och vatten när de tävlar i en sällsynt, gränslös, fånga-så-mycket-du-kan, Dungeness Crab Derby.",
          "episodeNumber":"3"
       },
-      { 
+         { 
          "episodeName":"Battle Lines",
          "episodeImage":"https://eu1-prod-images.disco-api.com/2016/10/10/videoasset-1757-1504283796916.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
          "episodeDescription":"Folkene fra Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose er vendt tilbage til det farlige og iskolde Beringshavet for at fange krabber.",
@@ -169,12 +157,6 @@
          "episodeImage":"https://eu1-prod-images.disco-api.com/2016/10/24/videoasset-1761-1504286195248.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
          "episodeDescription":"En regeringslukning afkorter sæsonen og starter en kædereaktion, der tvinger flåden til at fiske mere og hurtigere for at overholde tidsfristen for markedet.",
          "episodeNumber":"5"
-      },
-            { 
-         "episodeName":" Familieanliggende",
-         "episodeImage":"https://eu1-prod-images.disco-api.com/2015/01/13/videoasset-5207-1505167179573.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=1800",
-         "episodeDescription":"Følg mandskaberne på Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose, når de vender tilbage til det farefulde, iskolde Beringshav.",
-         "episodeNumber":"6"
       }
    ]
 }
