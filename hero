@@ -1,0 +1,44 @@
+{ 
+   "heros":[ 
+      { 
+         "heroName":"Hero 1",
+         "showName":"X",
+         "showImage":"",
+         "showImageMobile":"",
+         "showDescription":"",
+         "showMetadata":""
+      },
+      { 
+         "heroName":"Hero 2",
+         "showName":"X",
+         "showImage":"",
+         "showImageMobile":"",
+         "showDescription":"",
+         "showMetadata":""
+      },
+      { 
+         "heroName":"Hero 3",
+         "showName":"X",
+         "showImage":"",
+         "showImageMobile":"",
+         "showDescription":"",
+         "showMetadata":""
+      },
+      { 
+         "heroName":"Hero 4",
+         "showName":"X",
+         "showImage":"",
+         "showImageMobile":"",
+         "showDescription":"",
+         "showMetadata":""
+      },
+      { 
+         "heroName":"Hero 5",
+         "showName":"X",
+         "showImage":"",
+         "showImageMobile":"",
+         "showDescription":"",
+         "showMetadata":""
+      }
+   ]
+}
