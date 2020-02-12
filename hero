@@ -1,44 +1,28 @@
 { 
    "heros":[ 
       { 
-         "heroName":"Hero 1",
-         "showName":"X",
-         "showImage":"",
-         "showImageMobile":"",
-         "showDescription":"",
-         "showMetadata":""
+         "showName":"Europa League",
+         "showImage":"https://i.imgur.com/JXfoOGi.png",
+         "showImageMobile":"https://i.imgur.com/rch1qnQ.png",
+         "showLogo":"https://i.imgur.com/qju4GeV.png",
+         "showDescription":"The UEFA Europa League is an annual football club competition organised by UEFA since 1971 for eligible European football clubs. Clubs qualify for the competition based on their performance in their national leagues and cup competitions.",
+         "showMetadata":"2019 • 5+ • Sports"
       },
       { 
-         "heroName":"Hero 2",
-         "showName":"X",
-         "showImage":"",
-         "showImageMobile":"",
-         "showDescription":"",
-         "showMetadata":""
+         "showName":"Deadliest Catch",
+         "showImage":"https://i.imgur.com/Zi8Nqkw.png",
+         "showImageMobile":"https://i.imgur.com/4exY61r.png",
+         "showLogo":"https://i.imgur.com/Qp8zLO1.png",
+         "showDescription":"Deadliest Catch is a reality television series that premiered on the Discovery Channel on April 12, 2005. The show follows crab fishermen aboard fishing vessels in the Bering Sea during the Alaskan king crab, queen crab.",
+         "showMetadata":"2019 • 15+ • Reality"
       },
       { 
-         "heroName":"Hero 3",
-         "showName":"X",
-         "showImage":"",
-         "showImageMobile":"",
-         "showDescription":"",
-         "showMetadata":""
-      },
-      { 
-         "heroName":"Hero 4",
-         "showName":"X",
-         "showImage":"",
-         "showImageMobile":"",
-         "showDescription":"",
-         "showMetadata":""
-      },
-      { 
-         "heroName":"Hero 5",
-         "showName":"X",
-         "showImage":"",
-         "showImageMobile":"",
-         "showDescription":"",
-         "showMetadata":""
+         "showName":"Marooned with Ed Stafford",
+         "showImage":"https://i.imgur.com/uhm9O1m.png",
+         "showImageMobile":"https://i.imgur.com/e0LH9Zc.png",
+         "showLogo":"https://eu1-prod-images.disco-api.com/2017/08/21/show-3518-1503305979561.png?w=600",
+         "showDescription":"Ed Stafford tillbringar cirka tio dagar isolerad på tre avlägsna och potentiellt dödliga platser. Helt ensam, endast rustad med en kamera, måste han använda sin överlevnadsexpertis för att klara sig i de unika och utmanande miljöerna han besöker.",
+         "showMetadata":"2019 • 15+ • Documentary"
       }
    ]
 }
