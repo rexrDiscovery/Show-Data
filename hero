@@ -14,7 +14,7 @@
          "showImageMobile":"https://i.imgur.com/4exY61r.png",
          "showLogo":"https://i.imgur.com/Qp8zLO1.png",
          "showDescription":"Deadliest Catch is a reality television series that premiered on the Discovery Channel on April 12, 2005. The show follows crab fishermen aboard fishing vessels in the Bering Sea during the Alaskan king crab, queen crab.",
-         "showMetadata":"2019 • 15+ • Reality"
+         "showMetadata":"2020 • 15+ • Reality"
       },
       { 
          "showName":"Marooned with Ed Stafford",
@@ -22,7 +22,15 @@
          "showImageMobile":"https://i.imgur.com/e0LH9Zc.png",
          "showLogo":"https://eu1-prod-images.disco-api.com/2017/08/21/show-3518-1503305979561.png?w=600",
          "showDescription":"Ed Stafford tillbringar cirka tio dagar isolerad på tre avlägsna och potentiellt dödliga platser. Helt ensam, endast rustad med en kamera, måste han använda sin överlevnadsexpertis för att klara sig i de unika och utmanande miljöerna han besöker.",
-         "showMetadata":"2019 • 15+ • Documentary"
+         "showMetadata":"2019 • 12+ • Documentary"
+      },
+      { 
+         "showName":"Ex on The Beach Norge",
+         "showImage":"https://i.imgur.com/b8LYYWs.png",
+         "showImageMobile":"https://i.imgur.com/YvlBDYs.png",
+         "showLogo":"https://i.imgur.com/dtrzxoK.png",
+         "showDescription":"Åtta norska heta singlar skickas till en paradisstrand för att bada, festa och njuta av livet. Men det finns en twist: en efter en dyker deras ex upp på stranden.",
+         "showMetadata":"2020 • 18+ • Reality"
       }
    ]
 }
