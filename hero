@@ -1,7 +1,7 @@
 { 
    "heros":[ 
       { 
-         "showName":"Europa League",
+         "showName":"Premier League",
          "showImage":"https://i.imgur.com/JXfoOGi.png",
          "showImageMobile":"https://i.imgur.com/rch1qnQ.png",
          "showLogo":"https://i.imgur.com/qju4GeV.png",
