@@ -8,7 +8,8 @@
          "Episodes":[ 
             { 
                "episodeName":"Night Of The River Monsters",
-               "episodeImage":"Djurexperten och Youtube-stjärnan Coyote Peterson ger sig ut på ett vildmarksäventyr och träffar på några av världens mest fantastiska och farliga djur.",
+"episodeImage":"https://eu1-prod-images.disco-api.com/2020/04/12/videoasset-80916-2277657617148186.jpg?f=jpeg&p=true&q=100&w=1120",
+               "episodeDescription":"Djurexperten och Youtube-stjärnan Coyote Peterson ger sig ut på ett vildmarksäventyr och träffar på några av världens mest fantastiska och farliga djur.",
                "episodeNumber":"1"
             },
             { 
