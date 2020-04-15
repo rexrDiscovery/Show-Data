@@ -8,32 +8,31 @@
          "Episodes":[ 
             { 
                "episodeName":"Night Of The River Monsters",
-               "episodeImage":"https://eu1-prod-images.disco-api.com/2020/04/12/videoasset-80916-2277657617148186.jpg?f=jpeg&p=true&q=100&w=1120",
-               "episodeDescription":"Følg mandskaberne på Northwestern, Seabrooke, Time Bandit, Wizard, Kodiak og Ramblin' Rose, når de vender tilbage til det farefulde, iskolde Beringshav.",
+               "episodeImage":"Djurexperten och Youtube-stjärnan Coyote Peterson ger sig ut på ett vildmarksäventyr och träffar på några av världens mest fantastiska och farliga djur.",
                "episodeNumber":"1"
             },
             { 
                "episodeName":"First Look",
                "episodeImage":"https://eu1-prod-images.disco-api.com/2020/04/05/videoasset-80292-1681497507261459.jpg?f=jpeg&p=true&q=100&w=1120",
-               "episodeDescription":"Newport, Oregon är en fiskeort som ligger vid brynet av 'Graveyard of the Pacific'. Här uppoffrar Dungeness-kräftfiskare allt för att skaffa sig en utkomst från havet.",
+               "episodeDescription":"Djurexperten och Youtube-stjärnan Coyote Peterson ger sig ut på ett vildmarksäventyr och träffar på några av världens mest fantastiska och farliga djur.",
                "episodeNumber":"2"
             },
             { 
                "episodeName":"Sharks In The Shadow",
                "episodeImage":"https://eu1-prod-images.disco-api.com/2020/04/05/videoasset-80355-1753497609084045.jpg?f=jpeg&p=true&q=100&w=1120",
-               "episodeDescription":"Välkommen till Newport, Oregon. Följ fyra familjer på land och vatten när de tävlar i en sällsynt, gränslös, fånga-så-mycket-du-kan, Dungeness Crab Derby.",
+               "episodeDescription":"Djurexperten och Youtube-stjärnan Coyote Peterson ger sig ut på ett vildmarksäventyr och träffar på några av världens mest fantastiska och farliga djur.",
                "episodeNumber":"3"
             },
             { 
                "episodeName":"Aliens Of The Outback",
                "episodeImage":"https://eu1-prod-images.disco-api.com/2020/04/12/videoasset-81689-2539947094932854.jpg?f=jpeg&p=true&q=100&w=1120",
-               "episodeDescription":"Rose er vendt tilbage til det farlige og iskolde Beringshavet for at fange krabber.",
+               "episodeDescription":"Animal expert Coyote Peterson is on the hunt for a variety of strange lizards and reptiles in the Australian outback, particularly the bizarre thorny devil.",
                "episodeNumber":"4"
             },
             { 
                "episodeName":"Dinner With A Devil",
                "episodeImage":"https://eu1-prod-images.disco-api.com/2020/03/29/videoasset-79652-228801086888140.jpg?f=jpeg&p=true&q=100&w=1120",
-               "episodeDescription":"En regeringslukning afkorter sæsonen og starter en kædereaktion, der tvinger flåden til at fiske mere og hurtigere for at overholde tidsfristen for markedet.",
+               "episodeDescription":"ECoyote beger sig till Australien och berättar historien bakom den utrotningshotade tasmanska pungdjävulen. Han upptäcker också vilken arbetskraft som krävs för att bevara arten.",
                "episodeNumber":"5"
             }
          ]
@@ -47,25 +46,25 @@
             { 
                "episodeName":"Legendary Turtle Of Texas",
                "episodeImage":"https://eu1-prod-images.disco-api.com/2020/03/15/videoasset-78100-1996763537557576.jpg?f=jpeg&p=true&q=100&w=1120",
-               "episodeDescription":"Det är den första arbetsdagen i världens farligaste arbete. 1 500 fiskare har samlats i Dutch Harbor inför starten av kungskrabbesäsongen.",
+               "episodeDescription":"Coyote beger sig till Texas i sökandet efter en omtalad snappsköldpadda. Han tänker försöka bevisa att sköldpaddan är den största levande varelsen av sitt slag.",
                "episodeNumber":"1"
             },
             { 
                "episodeName":"Real Of The Caiman",
                "episodeImage":"https://eu1-prod-images.disco-api.com/2020/03/22/videoasset-78742-2483922514546659.jpg?f=jpeg&p=true&q=100&w=1120",
-               "episodeDescription":"Efter en lång natts agnande av krabbtinor väntar fiskarna otåligt på klartecken från kapten att börja fiska. Fiskesäsongens första uppdragna tina gör alla på gott humör.",
+               "episodeDescription":"Coyote beger sig till Brasilien för att titta närmare på pantanalkajmanen. Han simmar intill dem i de piraya-fyllda vattnen och studerar deras perfekta rovdjurspersonlighet.",
                "episodeNumber":"2"
             },
             { 
                "episodeName":"Swarmed By Killer Bees",
                "episodeImage":"https://eu1-prod-images.disco-api.com/2020/03/29/videoasset-79624-224241192112360.jpg?f=jpeg&p=true&q=100&w=1120",
-               "episodeDescription":"Krabbsäsongen går mot sitt slut. Fiskarna måste antingen fånga krabba idag eller ge upp hoppet om att gå på plus. Resultatet kan komma att påverka deras familjer under hela året.",
+               "episodeDescription":"Coyote träffar Chris Brinton som arbetar för att bevara bin. Det sätter upp ett trick med Coyote och 10 000 bin för att demonstrera binas passiva natur och avfärda fördomar om dem.",
                "episodeNumber":"3"
             },
             { 
                "episodeName":"Shadow Of The Jaguar",
                "episodeImage":"https://eu1-prod-images.disco-api.com/2020/03/22/videoasset-78795-3553467293943674.jpg?f=jpeg&p=true&q=100&w=1120",
-               "episodeDescription":"Krabbfiskesäsongen i Alaska är så gott som slut och nu väntar en kamp mot klockan för att fånga så många krabbor som möjligt under de sista timmarna.",
+               "episodeDescription":"Det är nästan omöjligt att fånga stora kattdjur på film. Men Coyote demonstrerar hur entusiaster kan lyckas få syn på rovdjur, däribland jaguarer, med hjälp av rätt teknik.",
                "episodeNumber":"4"
             }
          ]
