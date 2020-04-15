@@ -1,0 +1,52 @@
+{ 
+   "show":[ 
+         { 
+         "showName":"Jeremy Wade's Dark Waters",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/04/23/show-10023-2308896810329995.jpg?f=jpeg&p=true&q=100&w=900",
+         "showDescription":"Dyreekspert Coyote Peterson ser efter nogle af verdens mest uforlignelige og farlige dyr.",
+         "show-channel":"Animal Planet"
+      },
+      { 
+         "showName":"Guardians Of The Glades",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/07/04/show-10976-8550088327316333.jpg?f=jpeg&p=true&q=100&w=900",
+         "showDescription":"Efter en otrolig ishockeykarriär bjuder nu Sveriges absolut största vinnarskalle in dig till sitt liv som hockeypappa i Schweiz.",
+         "show-channel":"Dplay"
+      },
+      { 
+         "showName":"Solved",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/06/14/show-10656-1982628046414296.jpg?f=jpeg&p=true&q=100&w=900",
+         "showDescription":"En mästare och en ikon inom tennis som briljerade i alla tävlingar oavsett underlag. Möt mannen med en av Sveriges mest framgångsrika idrottskarriärer.",
+         "show-channel":"Dplay"
+      },
+      { 
+         "showName":"Evan Goes Wild",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/05/06/show-10253-4572640901642067.jpg?f=jpeg&p=true&q=100&w=900",
+         "showDescription":"Filip och Fredrik får en minut med Steven Spielberg. Pressen är total. Vad säger man till världens kanske mest kända filmskapare - på 60 sekunder?",
+         "show-channel":"Filip & Fredrik presenterar"
+      },
+      { 
+         "showName":"Return To The Wilderness",
+         "showImage":"https://eu1-prod-images.disco-api.com/2020/02/27/show-12952-1349453871511932.jpg?f=jpeg&p=true&q=100&w=900",
+         "showDescription":"Varför finns hat och varifrån kommer denna destruktiva känsla som avgjort så många människoöden och förändrat samhälle och historia? Och om vi kan finna hatets ursprung – kan vi även hitta sätt att stoppa eller förebygga det?",
+         "show-channel":"Filip & Fredrik presenterar"
+      },
+      { 
+         "showName":"Deadliest Catch",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/05/28/show-143-511283346648229.png?f=jpeg&p=true&q=100&w=900",
+         "showDescription":"Jens och Åsa åker för att tillbringa sommaren i skärgården. Idyllen uteblir dock när det visar sig att Jens svärföräldrar inte tänker lämna över stugan till Jens och Åsa, utan planerar att tillbringa sommaren där med dem. I andra säsongen är Jens och Åsa tillbaka på sommarstället och vill visa Åsas föräldrar att de är mogna att ta över stugan. Båtmotorer, grannar, gamla ex och en samfällighetsordförande sätter dock käppar i hjulet och den tilltänkta drömsommaren balanserar ibland farligt nära en mardröm.",
+         "show-channel":"Kanal 5"
+      },
+      { 
+         "showName":"I Was Prey",
+         "showImage":"https://eu1-prod-images.disco-api.com/2019/09/24/show-8676-19106015107995167.png?f=jpeg&p=true&q=100&w=900",
+         "showDescription":"Livet fortsätter för paren efter de 90 dagarna, men när de ser tillbaka på sina upplevelser inser de att deras liv inte har blivit lättare. Vi återser Danielle & Mohammed, Loren & Alexei, Russ & Paola och Melanie & Devar.",
+         "show-channel":"TLC"
+      },
+      { 
+         "showName":"Expedition Mungo",
+         "showImage":"https://eu1-prod-images.disco-api.com/2018/12/19/show-5228-14094346916145541.png?f=jpeg&p=true&q=100&w=900",
+         "showDescription":"Häng med i Jocke & Jonnas liv. Se ett avsnitt före alla andra med Premium.",
+         "show-channel":"Dplay"
+      }
+   ]
+}
