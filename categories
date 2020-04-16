@@ -1,0 +1,39 @@
+{ 
+   "show":[ 
+         { 
+         "showName":"Food",
+         "showImage":"https://i.imgur.com/y2rUuzN.png",
+         "showDescription":"Dyreekspert Coyote Peterson ser efter nogle af verdens mest uforlignelige og farlige dyr.",
+         "show-channel":"Animal Planet"
+      },
+      { 
+         "showName":"Documentaries",
+         "showImage":"https://i.imgur.com/kIP3Rdy.png",
+         "showDescription":"Efter en otrolig ishockeykarriär bjuder nu Sveriges absolut största vinnarskalle in dig till sitt liv som hockeypappa i Schweiz.",
+         "show-channel":"Dplay"
+      },
+      { 
+         "showName":"Adventure",
+         "showImage":"https://i.imgur.com/Ny994YT.png",
+         "showDescription":"En mästare och en ikon inom tennis som briljerade i alla tävlingar oavsett underlag. Möt mannen med en av Sveriges mest framgångsrika idrottskarriärer.",
+         "show-channel":"Dplay"
+      },
+      { 
+         "showName":"Animal",
+         "showImage":"https://i.imgur.com/1XKdRs9.png",
+         "showDescription":"Filip och Fredrik får en minut med Steven Spielberg. Pressen är total. Vad säger man till världens kanske mest kända filmskapare - på 60 sekunder?",
+         "show-channel":"Filip & Fredrik presenterar"
+      },
+      { 
+         "showName":"Sport",
+         "showImage":"https://i.imgur.com/Z8LLlce.png",
+         "showDescription":"Varför finns hat och varifrån kommer denna destruktiva känsla som avgjort så många människoöden och förändrat samhälle och historia? Och om vi kan finna hatets ursprung – kan vi även hitta sätt att stoppa eller förebygga det?",
+         "show-channel":"Filip & Fredrik presenterar"
+      },
+      { 
+         "showName":"Crime",
+         "showImage":"https://i.imgur.com/ONo8rQA.png",
+         "showDescription":"Jens och Åsa åker för att tillbringa sommaren i skärgården. Idyllen uteblir dock när det visar sig att Jens svärföräldrar inte tänker lämna över stugan till Jens och Åsa, utan planerar att tillbringa sommaren där med dem. I andra säsongen är Jens och Åsa tillbaka på sommarstället och vill visa Åsas föräldrar att de är mogna att ta över stugan. Båtmotorer, grannar, gamla ex och en samfällighetsordförande sätter dock käppar i hjulet och den tilltänkta drömsommaren balanserar ibland farligt nära en mardröm.",
+         "show-channel":"Kanal 5"
+      }   ]
+}
