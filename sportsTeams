@@ -1,0 +1,80 @@
+{ 
+   "teams":[ 
+         { 
+         "teamName":"Hammarby IF",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/708.png",
+      },
+         { 
+         "teamName":"Dalkurd FF",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/113876.png",
+      },
+         { 
+         "teamName":"Malmö FF",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/320.png",
+      },
+         { 
+         "teamName":"AIK",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/433.png",
+      },
+         { 
+         "teamName":"IF Brommapojkarna",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/111705.png",
+      },
+         { 
+         "teamName":"Jönköpings Södra IF,
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/112130.png",
+      },
+         { 
+         "teamName":"GIF Sundsvall",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/1596.png",
+      },
+{ 
+         "teamName":"IF Elfsborg",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/700.png",
+      },
+{ 
+         "teamName":"AFC Eskilstuna",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/112171.png",
+      },
+{ 
+         "teamName":"Kalmar FF",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/1439.png",
+      },
+{ 
+         "teamName":"Östersunds FK",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/113173.png",
+      },
+{ 
+         "teamName":"Halmstads BK",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/321.png",
+      },
+{ 
+         "teamName":"Örebro SK",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/705.png",
+      },
+
+{ 
+         "teamName":"IFK Norrköping",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/702.png",
+      },
+{ 
+         "teamName":"IFK Göteborg",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/319.png",
+      },{ 
+         "teamName":"Djurgårdens IF",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/710.png",
+      },
+{ 
+         "teamName":"Trelleborgs FF",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/703.png",
+      },
+{ 
+         "teamName":"IK Sirius",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/113458.png",
+      },
+{ 
+         "teamName":"BK Häcken",
+         "teamImage":"https://futhead.cursecdn.com/static/img/19/clubs/711.png",
+      },
+   ]
+}
