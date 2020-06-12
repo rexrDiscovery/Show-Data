@@ -1,17 +1,6 @@
 { 
    "show":[ 
-         { 
-         "showName":"Magnus Hedman: Andra halvlek",
-         "showImage":"https://eu1-prod-images.disco-api.com/2019/12/02/show-11914-53910942484872.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
-         "showDescription":"Livet lekte för landslagmålvakten. Men när karriären tog slut förvandlades glamouren till nattsvart kaos. Magnus Hedman ersatte kickarna från fotbollen med knark.",
-         "show-channel":"Dplay"
-      },
-      { 
-         "showName":"Peter Forsberg: Välkommen till Foppaland",
-         "showImage":"https://eu1-prod-images.disco-api.com/2019/12/03/show-11915-1677541708093396.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
-         "showDescription":"Efter en otrolig ishockeykarriär bjuder nu Sveriges absolut största vinnarskalle in dig till sitt liv som hockeypappa i Schweiz.",
-         "show-channel":"Dplay"
-      },
+        
       { 
          "showName":"Mats Wilander: Game, set och Mats",
          "showImage":"https://eu1-prod-images.disco-api.com/2019/12/03/show-11912-1677655824465267.png?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
