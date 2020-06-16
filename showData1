@@ -92,12 +92,6 @@
          "show-channel":"Kanal 5"
       },
       { 
-         "showName":"Carabao Cup",
-         "showImage":"https://eu1-prod-images.disco-api.com/2019/10/24/show-9313-21686874644793400.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
-         "showDescription":"Följ spänningen i Carabao Cup.",
-         "show-channel":"Eurosport 1"
-      },
-      { 
          "showName":"Ex and the city",
          "showImage":"https://eu1-prod-images.disco-api.com/2019/06/07/show-10628-6201493179625852.jpg?f=jpeg&amp;p=true&amp;q=100&amp;w=900",
          "showDescription":"Ex on the beach byter ut exotiska stränder och vajande palmer till storstadspuls och heta nätter.",
